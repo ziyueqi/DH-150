@@ -1,7 +1,6 @@
 
-# Final Project: CalorieKing! 
-## Heuristic Evaluation
-### Ziyue Qi DH-150
+# Heuristic Evaluation
+## Ziyue Qi DH-150
 
 Apps Evaluated:
 
