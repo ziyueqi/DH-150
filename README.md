@@ -5,7 +5,7 @@ Ziyue Qi
 Professor Sookie Cho
 User Experience Design Portfolio
 
-Usability Test:
+[Usability Test](https://ziyueqi.github.io/DH-150/UT/)
 
 Loseit! Is a popular calorie-counting app and website that is often used for weight control. 
 The usability engineers primarily hoped to address the difficulties navigating the app in order to perform simple tasks. For the first task, the administrator asked users to set their own goal, which was found to be difficult to perform during the heuristic evaluation. Once the has been created and a goal has been set, it is difficult to find the location to adjust that weight loss goal. In addition, there is an extraneous “Goals” tab at the bottom of the app that appears to be for adjusting goals, but is just another tab that is only really useful if you purchase the premium version. For the second task, the administrator asked users to enter food or exercise into the log, which is the primary purpose of the app. For the final task, the engineers wanted to see how easy it was to customize the app for a specific user. The administrator asked users to create a new exercise because some people may perform exercises not in the database, or a user may be from a different country and want to use the app with different units of measurement. This pilot test was performed in a room on the 3rd floor of UCLA Powell Library. The test administrator and data logger were both present in the testing room. The session captured the participant's navigational choices on the app, comments, facial expressions, questions, feedback, overall satisfaction ratings, and task completion rates. 
